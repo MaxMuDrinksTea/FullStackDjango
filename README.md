@@ -1,0 +1,2 @@
+# FullStackDjango
+Practice of Django
